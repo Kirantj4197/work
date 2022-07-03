@@ -11,5 +11,12 @@ features="src/test/java/features",
 glue="stepdefinitions",stepNotifications=true)
 
 public class TestRunner {
+	
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+		
+		System.out.println("ranjith tj");
+	}
 
 }
